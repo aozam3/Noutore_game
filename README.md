@@ -23,6 +23,7 @@
 <img src="https://github.com/aozam3/Noutore_game/assets/65112280/93001312-aa96-437d-b71b-cf0bcded6044.png" width="200">
 <img src="https://github.com/aozam3/Noutore_game/assets/65112280/917adc27-2e82-4e5a-99d8-331081534e25.png" width="200">
 </br>
+
 * 認知機能の「知覚」と「判断」能力
   * 問題の複雑化
   * ボタンのランダム配置
