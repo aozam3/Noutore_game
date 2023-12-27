@@ -12,6 +12,7 @@
 ### 直感でわかりやすいUI
 <img src="https://github.com/aozam3/Noutore_game/assets/65112280/c17688a1-ebf5-419f-9f9c-92b7ea3bf8e3.png" width="200">
 </br>
+
 *	一貫性のあるポップなデザイン
   * アニメ風のイラスト
  	* 丸いロゴやボタン
