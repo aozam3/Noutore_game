@@ -16,7 +16,7 @@
 ## Requirement
 下記の環境で開発しました。
 
-**・ 環境** <p/>
-MacOS 13.6.1
-Unity 2021.3.20f1
-iOS 17.1.2
+**・ 環境** </br>
+MacOS 13.6.1</br>
+Unity 2021.3.20f1</br>
+iOS 17.1.2</br>
