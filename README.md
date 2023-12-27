@@ -1,4 +1,4 @@
-![image](https://github.com/aozam3/Noutore_game/assets/65112280/1842d856-5f8e-4b32-b06f-c48afa157701)# Noutore_game
+# Noutore_game
 
 高齢者を対象としたスマホ向け脳トレゲームアプリのUnityファイルです。
 
